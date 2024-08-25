@@ -1,0 +1,18 @@
+{
+  "name": "osym-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes data from the OSYM website and outputs JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.10",
+    "crypto": "^1.0.1",
+    "https": "^1.0.0",
+    "fs": "0.0.1-security"
+  },
+  "author": "codermert",
+  "license": "MIT"
+}
