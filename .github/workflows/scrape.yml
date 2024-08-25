@@ -1,0 +1,34 @@
+name: Run OSYM Scraper
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # Runs every minute
+  workflow_dispatch:  # Allows you to manually trigger the workflow
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18.x'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scraper
+        run: npm start
+
+      - name: Commit results
+        run: |
+          node index.js  # 
+          git add sonuc.json
+          git config --global user.email "codermert@bk.ru"
+          git config --global user.name "codermert"
+          git diff --cached --exit-code --quiet || git commit -m "🕰 Veriler auto güncellendi » @codermert"
+          git push
