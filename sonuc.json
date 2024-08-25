@@ -1,1 +1,79 @@
-
+[
+  {
+    "sinav": "2024 - KPSS Lisans",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "14.07.2024 - 01.09.2024",
+    "islemtarihi": "23.08.2024 11.00",
+    "durum": "Görüntüleme Başladı"
+  },
+  {
+    "sinav": "2024- KPSS Alan Bilgisi",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "20.07.2024 - 21.07.2024",
+    "islemtarihi": "23.08.2024 11.00",
+    "durum": "Görüntüleme Başladı"
+  },
+  {
+    "sinav": "2024 - KPSS ÖABT",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "04.08.2024",
+    "islemtarihi": "23.08.2024 11.00",
+    "durum": "Görüntüleme Başladı"
+  },
+  {
+    "sinav": "2024 - KPSS Ön Lisans",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "01.09.2024",
+    "islemtarihi": "22.08.2024 15.15-01.09.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - Sayıştay Eleme",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "06.10.2024",
+    "islemtarihi": "21.08.2024 10.00-28.08.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "e-YDS 2024/10",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "07.09.2024",
+    "islemtarihi": "20.08.2024 16.00-28.08.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - TUS 2. Dönem",
+    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
+    "sinavtarihi": "18.08.2024",
+    "islemtarihi": "18.08.2024 18.35-28.08.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - STSTIP 2. Dönem",
+    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
+    "sinavtarihi": "18.08.2024",
+    "islemtarihi": "18.08.2024 18.35-28.08.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 YKS ÖZYES (SPOR BİLİMLERİ)",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "20.08.2024 - 21.08.202422.08.2024 - 23.08.202424.08.2024 - 25.08.202426.08.2024",
+    "islemtarihi": "16.08.2024 17.00-26.08.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - ALES/2",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "28.07.2024",
+    "islemtarihi": "15.08.2024 15.30",
+    "durum": "Görüntüleme Başladı"
+  },
+  {
+    "sinav": "2024 - İYÖS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "29.09.2024",
+    "islemtarihi": "28.08.2024 10.00-28.08.2024 23.59",
+    "durum": "Başlamadı"
+  }
+]
