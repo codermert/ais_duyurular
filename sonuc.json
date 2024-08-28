@@ -1,19 +1,5 @@
 [
   {
-    "sinav": "2024 - HMGS",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "29.09.2024",
-    "islemtarihi": "28.08.2024 10.00-28.08.2024 23.59",
-    "durum": "Bitti"
-  },
-  {
-    "sinav": "2024 - İYÖS",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "29.09.2024",
-    "islemtarihi": "28.08.2024 10.00-28.08.2024 23.59",
-    "durum": "Bitti"
-  },
-  {
     "sinav": "2024 - DUS 2.Dönem",
     "islemtipi": "Başvuru",
     "sinavtarihi": "13.10.2024",
@@ -75,33 +61,5 @@
     "sinavtarihi": "01.09.2024",
     "islemtarihi": "22.08.2024 15.15-01.09.2024 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - Sayıştay Eleme",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "06.10.2024",
-    "islemtarihi": "21.08.2024 10.00-28.08.2024 23.59",
-    "durum": "Bitti"
-  },
-  {
-    "sinav": "e-YDS 2024/10",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "07.09.2024",
-    "islemtarihi": "20.08.2024 16.00-28.08.2024 23.59",
-    "durum": "Bitti"
-  },
-  {
-    "sinav": "2024 - TUS 2. Dönem",
-    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
-    "sinavtarihi": "18.08.2024",
-    "islemtarihi": "18.08.2024 18.35-28.08.2024 23.59",
-    "durum": "Bitti"
-  },
-  {
-    "sinav": "2024 - STSTIP 2. Dönem",
-    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
-    "sinavtarihi": "18.08.2024",
-    "islemtarihi": "18.08.2024 18.35-28.08.2024 23.59",
-    "durum": "Bitti"
   }
 ]
