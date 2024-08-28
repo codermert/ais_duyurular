@@ -14,18 +14,39 @@
     "durum": "Devam Ediyor"
   },
   {
+    "sinav": "2024 - DUS 2.Dönem",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "13.10.2024",
+    "islemtarihi": "28.08.2024 16.00-04.09.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - STSDIS 2.Dönem",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "13.10.2024",
+    "islemtarihi": "28.08.2024 16.00-04.09.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - EUS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "13.10.2024",
+    "islemtarihi": "28.08.2024 16.00-04.09.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - STS ECZACILIK",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "13.10.2024",
+    "islemtarihi": "28.08.2024 16.00-04.09.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2024-YÖKDİL/2",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "11.08.2024",
     "islemtarihi": "28.08.2024 15.00",
     "durum": "Görüntüleme Başladı"
-  },
-  {
-    "sinav": "2024 - KPSS Ön Lisans",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "01.09.2024",
-    "islemtarihi": "22.08.2024 15.15-01.09.2024 23.59",
-    "durum": "Devam Ediyor"
   },
   {
     "sinav": "2024 - KPSS Lisans",
@@ -49,10 +70,10 @@
     "durum": "Görüntüleme Başladı"
   },
   {
-    "sinav": "e-YDS 2024/10",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "07.09.2024",
-    "islemtarihi": "20.08.2024 16.00-28.08.2024 23.59",
+    "sinav": "2024 - KPSS Ön Lisans",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "01.09.2024",
+    "islemtarihi": "22.08.2024 15.15-01.09.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -60,6 +81,13 @@
     "islemtipi": "Başvuru",
     "sinavtarihi": "06.10.2024",
     "islemtarihi": "21.08.2024 10.00-28.08.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "e-YDS 2024/10",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "07.09.2024",
+    "islemtarihi": "20.08.2024 16.00-28.08.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
