@@ -1,5 +1,26 @@
 [
   {
+    "sinav": "2024 - Sayıştay Eleme",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "06.10.2024",
+    "islemtarihi": "05.09.2024 10.00-05.09.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "e-YDS 2024/10",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "07.09.2024",
+    "islemtarihi": "05.09.2024 11.00-07.09.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024-KPSS Ortaöğretim",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "15.09.2024",
+    "islemtarihi": "05.09.2024 11.00-15.09.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2024 - KPSS Ön Lisans",
     "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
     "sinavtarihi": "01.09.2024",
@@ -19,12 +40,5 @@
     "sinavtarihi": "14.07.2024 - 01.09.2024",
     "islemtarihi": "23.08.2024 11.00",
     "durum": "Görüntüleme Başladı"
-  },
-  {
-    "sinav": "2024 - Sayıştay Eleme",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "06.10.2024",
-    "islemtarihi": "05.09.2024 10.00-05.09.2024 23.59",
-    "durum": "Devam Ediyor"
   }
 ]
