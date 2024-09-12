@@ -1,5 +1,19 @@
 [
   {
+    "sinav": "2024 - DUS 2.Dönem",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "13.10.2024",
+    "islemtarihi": "12.09.2024 10.00-12.09.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - STSDIS 2.Dönem",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "13.10.2024",
+    "islemtarihi": "12.09.2024 10.00-12.09.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2024 - DGS",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "30.06.2024",
@@ -12,20 +26,6 @@
     "sinavtarihi": "15.09.2024",
     "islemtarihi": "05.09.2024 11.00-15.09.2024 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - DUS 2.Dönem",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "13.10.2024",
-    "islemtarihi": "12.09.2024 10.00-12.09.2024 23.59",
-    "durum": "Başlamadı"
-  },
-  {
-    "sinav": "2024 - STSDIS 2.Dönem",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "13.10.2024",
-    "islemtarihi": "12.09.2024 10.00-12.09.2024 23.59",
-    "durum": "Başlamadı"
   },
   {
     "sinav": "2024 - EUS",
