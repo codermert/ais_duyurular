@@ -1,19 +1,5 @@
 [
   {
-    "sinav": "2024 - HMGS",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "29.09.2024",
-    "islemtarihi": "19.09.2024 10.30-29.09.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - İYÖS",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "29.09.2024",
-    "islemtarihi": "19.09.2024 10.30-29.09.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2024 - KPSS Ön Lisans",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "01.09.2024",
@@ -25,6 +11,20 @@
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
     "islemtarihi": "18.09.2024 15.00-24.09.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - HMGS",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "29.09.2024",
+    "islemtarihi": "19.09.2024 10.30-29.09.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - İYÖS",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "29.09.2024",
+    "islemtarihi": "19.09.2024 10.30-29.09.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
