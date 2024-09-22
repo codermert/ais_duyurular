@@ -53,20 +53,20 @@
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "22.09.2024",
     "islemtarihi": "12.09.2024 14.00-22.09.2024 23.59",
-    "durum": "Devam Ediyor"
+    "durum": "Bitti"
   },
   {
     "sinav": "2024 - TUS 2. Dönem",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "18.08.2024",
     "islemtarihi": "12.09.2024 11.15",
-    "durum": "Görüntüleme Başladı"
+    "durum": "Bitti"
   },
   {
     "sinav": "2024 - STSTIP 2. Dönem",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "18.08.2024",
     "islemtarihi": "12.09.2024 11.15",
-    "durum": "Görüntüleme Başladı"
+    "durum": "Bitti"
   }
 ]
