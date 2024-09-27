@@ -1,9 +1,9 @@
 [
   {
-    "sinav": "2024 - Mühendislik Tamamlama",
+    "sinav": "2024 - YDUS 1.Dönem Ek Tercih",
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
-    "islemtarihi": "26.09.2024 11.00-01.10.2024 23.59",
+    "islemtarihi": "27.09.2024 11.00-03.10.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -11,6 +11,13 @@
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "06.10.2024",
     "islemtarihi": "26.09.2024 11.15-06.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - Mühendislik Tamamlama",
+    "islemtipi": "Tercih",
+    "sinavtarihi": "-",
+    "islemtarihi": "26.09.2024 11.00-01.10.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -47,5 +54,12 @@
     "sinavtarihi": "29.09.2024",
     "islemtarihi": "19.09.2024 10.30-29.09.2024 23.59",
     "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - YDS/2",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "03.11.2024",
+    "islemtarihi": "02.10.2024 10.00-02.10.2024 23.59",
+    "durum": "Başlamadı"
   }
 ]
