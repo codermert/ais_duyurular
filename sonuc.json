@@ -7,6 +7,13 @@
     "durum": "Devam Ediyor"
   },
   {
+    "sinav": "2024 - YDS/2",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "03.11.2024",
+    "islemtarihi": "02.10.2024 10.00-02.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2024 - ALES/3",
     "islemtipi": "Başvuru",
     "sinavtarihi": "17.11.2024",
@@ -53,13 +60,6 @@
     "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
     "sinavtarihi": "22.09.2024",
     "islemtarihi": "22.09.2024 13.30-02.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - YDS/2",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "03.11.2024",
-    "islemtarihi": "02.10.2024 10.00-02.10.2024 23.59",
     "durum": "Devam Ediyor"
   }
 ]
