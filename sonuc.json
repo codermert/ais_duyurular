@@ -14,6 +14,13 @@
     "durum": "Devam Ediyor"
   },
   {
+    "sinav": "2024- YDUS 1. Dönem",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "02.06.2024",
+    "islemtarihi": "01.10.2024 15.30",
+    "durum": "Görüntüleme Başladı"
+  },
+  {
     "sinav": "2024 - HMGS",
     "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
     "sinavtarihi": "29.09.2024",
@@ -53,6 +60,6 @@
     "islemtipi": "Başvuru",
     "sinavtarihi": "03.11.2024",
     "islemtarihi": "02.10.2024 10.00-02.10.2024 23.59",
-    "durum": "Başlamadı"
+    "durum": "Devam Ediyor"
   }
 ]
