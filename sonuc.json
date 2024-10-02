@@ -1,12 +1,5 @@
 [
   {
-    "sinav": "2024 - YDS/2",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "03.11.2024",
-    "islemtarihi": "02.10.2024 10.00-02.10.2024 23.59",
-    "durum": "Bitti"
-  },
-  {
     "sinav": "2024 - ÖZYES Tercih",
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
@@ -61,12 +54,5 @@
     "sinavtarihi": "06.10.2024",
     "islemtarihi": "26.09.2024 11.15-06.10.2024 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - KPSS DHBT",
-    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
-    "sinavtarihi": "22.09.2024",
-    "islemtarihi": "22.09.2024 13.30-02.10.2024 23.59",
-    "durum": "Bitti"
   }
 ]
