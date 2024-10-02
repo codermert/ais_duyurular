@@ -1,5 +1,19 @@
 [
   {
+    "sinav": "2024 - YDS/2",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "03.11.2024",
+    "islemtarihi": "02.10.2024 10.00-02.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - ÖZYES Tercih",
+    "islemtipi": "Tercih",
+    "sinavtarihi": "-",
+    "islemtarihi": "02.10.2024 16.00-07.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "e-YDS 2024/11 (İngilizce/Farsça)",
     "islemtipi": "Başvuru",
     "sinavtarihi": "19.10.2024",
@@ -7,10 +21,10 @@
     "durum": "Devam Ediyor"
   },
   {
-    "sinav": "2024 - YDS/2",
+    "sinav": "2024 - ALES/3",
     "islemtipi": "Başvuru",
-    "sinavtarihi": "03.11.2024",
-    "islemtarihi": "02.10.2024 10.00-02.10.2024 23.59",
+    "sinavtarihi": "17.11.2024",
+    "islemtarihi": "01.10.2024 10.45-09.10.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -19,13 +33,6 @@
     "sinavtarihi": "02.06.2024",
     "islemtarihi": "01.10.2024 15.30",
     "durum": "Görüntüleme Başladı"
-  },
-  {
-    "sinav": "2024 - ALES/3",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "17.11.2024",
-    "islemtarihi": "01.10.2024 10.45-09.10.2024 23.59",
-    "durum": "Devam Ediyor"
   },
   {
     "sinav": "2024 - HMGS",
