@@ -28,6 +28,13 @@
     "durum": "Devam Ediyor"
   },
   {
+    "sinav": "2024-KPSS Ortaöğretim",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "15.09.2024",
+    "islemtarihi": "04.10.2024 11.15",
+    "durum": "Görüntüleme Başladı"
+  },
+  {
     "sinav": "2024 - ÖZYES Tercih",
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
@@ -42,18 +49,18 @@
     "durum": "Devam Ediyor"
   },
   {
-    "sinav": "2024 - ALES/3",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "17.11.2024",
-    "islemtarihi": "01.10.2024 10.45-09.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2024- YDUS 1. Dönem",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "02.06.2024",
     "islemtarihi": "01.10.2024 15.30",
     "durum": "Görüntüleme Başladı"
+  },
+  {
+    "sinav": "2024 - ALES/3",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "17.11.2024",
+    "islemtarihi": "01.10.2024 10.45-09.10.2024 23.59",
+    "durum": "Devam Ediyor"
   },
   {
     "sinav": "2024 - HMGS",
