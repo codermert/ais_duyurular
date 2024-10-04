@@ -1,5 +1,19 @@
 [
   {
+    "sinav": "2024-KPSS Ortaöğretim",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "15.09.2024",
+    "islemtarihi": "04.10.2024 11.15",
+    "durum": "Görüntüleme Başladı"
+  },
+  {
+    "sinav": "2024 - ÖZYES Tercih",
+    "islemtipi": "Tercih",
+    "sinavtarihi": "-",
+    "islemtarihi": "02.10.2024 16.00-07.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2024 - DUS 2.Dönem",
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "13.10.2024",
@@ -25,20 +39,6 @@
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "13.10.2024",
     "islemtarihi": "03.10.2024 14.00-13.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024-KPSS Ortaöğretim",
-    "islemtipi": "Cevap Kağıdı Görüntüleme",
-    "sinavtarihi": "15.09.2024",
-    "islemtarihi": "04.10.2024 11.15",
-    "durum": "Görüntüleme Başladı"
-  },
-  {
-    "sinav": "2024 - ÖZYES Tercih",
-    "islemtipi": "Tercih",
-    "sinavtarihi": "-",
-    "islemtarihi": "02.10.2024 16.00-07.10.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
