@@ -1,5 +1,40 @@
 [
   {
+    "sinav": "2024 - DUS 2.Dönem",
+    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
+    "sinavtarihi": "13.10.2024",
+    "islemtarihi": "13.10.2024 14.20-23.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - STSDIS 2.Dönem",
+    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
+    "sinavtarihi": "13.10.2024",
+    "islemtarihi": "13.10.2024 14.20-23.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - YDUS 1.Dönem Tercih (Grup 2)",
+    "islemtipi": "Tercih",
+    "sinavtarihi": "-",
+    "islemtarihi": "09.10.2024 14.30-16.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - BKUBTS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "24.11.2024",
+    "islemtarihi": "09.10.2024 10.50-15.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - Sayıştay Eleme",
+    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
+    "sinavtarihi": "06.10.2024",
+    "islemtarihi": "06.10.2024 13.30-16.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2024-KPSS Ortaöğretim",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "15.09.2024",
@@ -7,80 +42,10 @@
     "durum": "Görüntüleme Başladı"
   },
   {
-    "sinav": "2024 - ÖZYES Tercih",
-    "islemtipi": "Tercih",
-    "sinavtarihi": "-",
-    "islemtarihi": "02.10.2024 16.00-07.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - DUS 2.Dönem",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "13.10.2024",
-    "islemtarihi": "03.10.2024 14.00-13.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - STSDIS 2.Dönem",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "13.10.2024",
-    "islemtarihi": "03.10.2024 14.00-13.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - EUS",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "13.10.2024",
-    "islemtarihi": "03.10.2024 14.00-13.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - STS ECZACILIK",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "13.10.2024",
-    "islemtarihi": "03.10.2024 14.00-13.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "e-YDS 2024/11 (İngilizce/Farsça)",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "19.10.2024",
-    "islemtarihi": "01.10.2024 16.00-10.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024- YDUS 1. Dönem",
-    "islemtipi": "Cevap Kağıdı Görüntüleme",
-    "sinavtarihi": "02.06.2024",
-    "islemtarihi": "01.10.2024 15.30",
-    "durum": "Görüntüleme Başladı"
-  },
-  {
     "sinav": "2024 - ALES/3",
     "islemtipi": "Başvuru",
     "sinavtarihi": "17.11.2024",
-    "islemtarihi": "01.10.2024 10.45-09.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - HMGS",
-    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
-    "sinavtarihi": "29.09.2024",
-    "islemtarihi": "29.09.2024 13.50-09.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - İYÖS",
-    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
-    "sinavtarihi": "29.09.2024",
-    "islemtarihi": "29.09.2024 13.50-09.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - Sayıştay Eleme",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "06.10.2024",
-    "islemtarihi": "26.09.2024 11.15-06.10.2024 23.59",
-    "durum": "Devam Ediyor"
+    "islemtarihi": "16.10.2024 10.00-16.10.2024 23.59",
+    "durum": "Başlamadı"
   }
 ]
