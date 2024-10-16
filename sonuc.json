@@ -1,12 +1,5 @@
 [
   {
-    "sinav": "2024 - ALES/3",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "17.11.2024",
-    "islemtarihi": "16.10.2024 10.00-16.10.2024 23.59",
-    "durum": "Bitti"
-  },
-  {
     "sinav": "2024 - KPSS DHBT",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "22.09.2024",
@@ -26,19 +19,5 @@
     "sinavtarihi": "13.10.2024",
     "islemtarihi": "13.10.2024 14.20-23.10.2024 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - YDUS 1.Dönem Tercih (Grup 2)",
-    "islemtipi": "Tercih",
-    "sinavtarihi": "-",
-    "islemtarihi": "09.10.2024 14.30-16.10.2024 23.59",
-    "durum": "Bitti"
-  },
-  {
-    "sinav": "2024 - Sayıştay Eleme",
-    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
-    "sinavtarihi": "06.10.2024",
-    "islemtarihi": "06.10.2024 13.30-16.10.2024 23.59",
-    "durum": "Bitti"
   }
 ]
