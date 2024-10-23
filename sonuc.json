@@ -1,9 +1,9 @@
 [
   {
-    "sinav": "2024 - İSG/2",
+    "sinav": "2024 - BKUBTS",
     "islemtipi": "Başvuru",
-    "sinavtarihi": "08.12.2024",
-    "islemtarihi": "22.10.2024 10.00-30.10.2024 23.59",
+    "sinavtarihi": "24.11.2024",
+    "islemtarihi": "23.10.2024 10.00-23.10.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -56,6 +56,13 @@
     "durum": "Devam Ediyor"
   },
   {
+    "sinav": "2024 - İSG/2",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "08.12.2024",
+    "islemtarihi": "22.10.2024 10.00-30.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2024 - TUS 2. Dönem Tercihi",
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
@@ -82,12 +89,5 @@
     "sinavtarihi": "13.10.2024",
     "islemtarihi": "13.10.2024 14.20-23.10.2024 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - BKUBTS",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "24.11.2024",
-    "islemtarihi": "23.10.2024 10.00-23.10.2024 10.00",
-    "durum": "Bitti"
   }
 ]
