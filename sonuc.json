@@ -1,9 +1,9 @@
 [
   {
-    "sinav": "2024 - İSG/2",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "08.12.2024",
-    "islemtarihi": "22.10.2024 10.00-30.10.2024 23.59",
+    "sinav": "2024 - YDS/2",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "03.11.2024",
+    "islemtarihi": "24.10.2024 10.00-03.11.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -53,6 +53,13 @@
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
     "islemtarihi": "21.10.2024 16.30-02.11.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - İSG/2",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "08.12.2024",
+    "islemtarihi": "22.10.2024 10.00-30.10.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
