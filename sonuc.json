@@ -7,6 +7,13 @@
     "durum": "Devam Ediyor"
   },
   {
+    "sinav": "2024 - DGS Ek Tercih",
+    "islemtipi": "Tercih",
+    "sinavtarihi": "-",
+    "islemtarihi": "25.10.2024 17.15-31.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2024 - İcra",
     "islemtipi": "Başvuru",
     "sinavtarihi": "07.12.2024",
@@ -33,6 +40,13 @@
     "sinavtarihi": "29.09.2024",
     "islemtarihi": "24.10.2024 11.15",
     "durum": "Görüntüleme Başladı"
+  },
+  {
+    "sinav": "2024 - İSG/2",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "08.12.2024",
+    "islemtarihi": "22.10.2024 10.00-30.10.2024 23.59",
+    "durum": "Devam Ediyor"
   },
   {
     "sinav": "2024 - YABANCI DİL HAZIRLIK",
@@ -81,13 +95,6 @@
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
     "islemtarihi": "21.10.2024 16.30-02.11.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - İSG/2",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "08.12.2024",
-    "islemtarihi": "22.10.2024 10.00-30.10.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
