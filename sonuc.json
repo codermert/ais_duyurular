@@ -1,16 +1,16 @@
 [
   {
-    "sinav": "2024- YDUS 2. Dönem",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "15.12.2024",
-    "islemtarihi": "25.10.2024 15.00-04.11.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2024 - DGS Ek Tercih",
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
     "islemtarihi": "25.10.2024 17.15-31.10.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024- YDUS 2. Dönem",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "15.12.2024",
+    "islemtarihi": "25.10.2024 15.00-04.11.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
