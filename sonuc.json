@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2024 - Sayıştay Eleme",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "06.10.2024",
+    "islemtarihi": "31.10.2024 10.15",
+    "durum": "Görüntüleme Başladı"
+  },
+  {
     "sinav": "2024- YDUS 2. Dönem",
     "islemtipi": "Başvuru",
     "sinavtarihi": "15.12.2024",
@@ -11,13 +18,6 @@
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
     "islemtarihi": "25.10.2024 17.15-31.10.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - YDS/2",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "03.11.2024",
-    "islemtarihi": "24.10.2024 10.00-03.11.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -33,6 +33,13 @@
     "sinavtarihi": "29.09.2024",
     "islemtarihi": "24.10.2024 11.15",
     "durum": "Görüntüleme Başladı"
+  },
+  {
+    "sinav": "2024 - YDS/2",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "03.11.2024",
+    "islemtarihi": "24.10.2024 10.00-03.11.2024 23.59",
+    "durum": "Devam Ediyor"
   },
   {
     "sinav": "2024 - YABANCI DİL HAZIRLIK",
