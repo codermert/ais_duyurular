@@ -1,10 +1,38 @@
 [
   {
+    "sinav": "2024 - İSG/2",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "08.12.2024",
+    "islemtarihi": "07.11.2024 10.00-07.11.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - İcra",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "07.12.2024",
+    "islemtarihi": "07.11.2024 10.00-07.11.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2024 Adalet Bakanlığı Sınavları",
     "islemtipi": "Başvuru",
     "sinavtarihi": "21.12.2024 - 22.12.2024",
     "islemtarihi": "06.11.2024 15.30-13.11.2024 23.59",
     "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - DUS 2.Dönem",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "13.10.2024",
+    "islemtarihi": "07.11.2024 10.15",
+    "durum": "Görüntüleme Başladı"
+  },
+  {
+    "sinav": "2024 - STSDIS 2.Dönem",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "13.10.2024",
+    "islemtarihi": "07.11.2024 10.15",
+    "durum": "Görüntüleme Başladı"
   },
   {
     "sinav": "2024 - ÖZYES Ek Tercih",
@@ -26,20 +54,6 @@
     "sinavtarihi": "06.10.2024",
     "islemtarihi": "31.10.2024 10.15",
     "durum": "Görüntüleme Başladı"
-  },
-  {
-    "sinav": "2024 - İSG/2",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "08.12.2024",
-    "islemtarihi": "07.11.2024 10.00-07.11.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - İcra",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "07.12.2024",
-    "islemtarihi": "07.11.2024 10.00-07.11.2024 23.59",
-    "durum": "Devam Ediyor"
   },
   {
     "sinav": "2024- YDUS 2. Dönem",
