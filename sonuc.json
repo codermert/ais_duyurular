@@ -1,16 +1,16 @@
 [
   {
-    "sinav": "2024 - ALES/3",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "17.11.2024",
-    "islemtarihi": "07.11.2024 14.00-17.11.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2024 Adalet Bakanlığı Sınavları",
     "islemtipi": "Başvuru",
     "sinavtarihi": "21.12.2024 - 22.12.2024",
     "islemtarihi": "06.11.2024 15.30-13.11.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - ALES/3",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "17.11.2024",
+    "islemtarihi": "07.11.2024 14.00-17.11.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
