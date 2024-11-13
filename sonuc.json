@@ -1,12 +1,5 @@
 [
   {
-    "sinav": "2024- YDUS 2. Dönem",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "15.12.2024",
-    "islemtarihi": "13.11.2024 10.00-13.11.2024 23.59",
-    "durum": "Bitti"
-  },
-  {
     "sinav": "2024 - ALES/3",
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "17.11.2024",
@@ -26,19 +19,5 @@
     "sinavtarihi": "13.10.2024",
     "islemtarihi": "07.11.2024 10.15",
     "durum": "Görüntüleme Başladı"
-  },
-  {
-    "sinav": "2024 Adalet Bakanlığı Sınavları",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "21.12.2024 - 22.12.2024",
-    "islemtarihi": "06.11.2024 15.30-13.11.2024 23.59",
-    "durum": "Bitti"
-  },
-  {
-    "sinav": "2024 - YDS/2",
-    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
-    "sinavtarihi": "03.11.2024",
-    "islemtarihi": "03.11.2024 14.15-13.11.2024 23.59",
-    "durum": "Bitti"
   }
 ]
