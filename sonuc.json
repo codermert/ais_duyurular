@@ -4,7 +4,7 @@
     "islemtipi": "Başvuru",
     "sinavtarihi": "15.12.2024",
     "islemtarihi": "13.11.2024 10.00-13.11.2024 23.59",
-    "durum": "Devam Ediyor"
+    "durum": "Bitti"
   },
   {
     "sinav": "2024 - ALES/3",
@@ -32,13 +32,13 @@
     "islemtipi": "Başvuru",
     "sinavtarihi": "21.12.2024 - 22.12.2024",
     "islemtarihi": "06.11.2024 15.30-13.11.2024 23.59",
-    "durum": "Devam Ediyor"
+    "durum": "Bitti"
   },
   {
     "sinav": "2024 - YDS/2",
     "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
     "sinavtarihi": "03.11.2024",
     "islemtarihi": "03.11.2024 14.15-13.11.2024 23.59",
-    "durum": "Devam Ediyor"
+    "durum": "Bitti"
   }
 ]
