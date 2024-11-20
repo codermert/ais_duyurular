@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2024 Adalet Bakanlığı Sınavları",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "21.12.2024 - 22.12.2024",
+    "islemtarihi": "20.11.2024 10.00-20.11.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2024 - YDUS 1.Dönem Ek Tercih (Grup 2)",
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
@@ -18,13 +25,6 @@
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "24.11.2024",
     "islemtarihi": "14.11.2024 11.00-24.11.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 Adalet Bakanlığı Sınavları",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "21.12.2024 - 22.12.2024",
-    "islemtarihi": "20.11.2024 10.00-20.11.2024 23.59",
     "durum": "Devam Ediyor"
   }
 ]
