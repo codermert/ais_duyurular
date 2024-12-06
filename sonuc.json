@@ -1,12 +1,5 @@
 [
   {
-    "sinav": "2024- YDUS 2. Dönem",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "15.12.2024",
-    "islemtarihi": "05.12.2024 14.00-15.12.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2024 - ALES/3",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "17.11.2024",
@@ -25,6 +18,13 @@
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
     "islemtarihi": "05.12.2024 10.35-11.12.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024- YDUS 2. Dönem",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "15.12.2024",
+    "islemtarihi": "05.12.2024 14.00-15.12.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
