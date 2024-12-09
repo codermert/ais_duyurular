@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2024 - EUS Tercih",
+    "islemtipi": "Tercih",
+    "sinavtarihi": "-",
+    "islemtarihi": "09.12.2024 11.30-15.12.2024 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2024 - İSG/2",
     "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
     "sinavtarihi": "08.12.2024",
@@ -11,13 +18,6 @@
     "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
     "sinavtarihi": "07.12.2024",
     "islemtarihi": "08.12.2024 12.20-18.12.2024 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2024 - TUS 2. Dönem Ek Tercihi",
-    "islemtipi": "Tercih",
-    "sinavtarihi": "-",
-    "islemtarihi": "05.12.2024 11.00-11.12.2024 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -33,6 +33,13 @@
     "sinavtarihi": "17.11.2024",
     "islemtarihi": "06.12.2024 10.15",
     "durum": "Görüntüleme Başladı"
+  },
+  {
+    "sinav": "2024 - TUS 2. Dönem Ek Tercihi",
+    "islemtipi": "Tercih",
+    "sinavtarihi": "-",
+    "islemtarihi": "05.12.2024 11.00-11.12.2024 23.59",
+    "durum": "Devam Ediyor"
   },
   {
     "sinav": "2024 - DUS 2.Dönem Tercihi",
