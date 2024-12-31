@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "sinav": "2024 - İcra",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "07.12.2024",
+    "islemtarihi": "27.12.2024 10.15",
+    "durum": "Görüntüleme Başladı"
+  },
+  {
+    "sinav": "2024 Adalet Bakanlığı Sınavları",
+    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
+    "sinavtarihi": "21.12.2024 - 22.12.2024",
+    "islemtarihi": "22.12.2024 16.35-01.01.2025 23.59",
+    "durum": "Devam Ediyor"
+  }
+]
