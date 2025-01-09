@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "KPSS-2025/3 Tercih",
+    "islemtipi": "Tercih",
+    "sinavtarihi": "-",
+    "islemtarihi": "09.01.2025 14.30-15.01.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "e-YDS 2025/1",
     "islemtipi": "Başvuru",
     "sinavtarihi": "18.01.2025",
@@ -14,17 +21,17 @@
     "durum": "Devam Ediyor"
   },
   {
-    "sinav": "2025 - MSÜ",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "23.02.2025",
-    "islemtarihi": "02.01.2025 14.30-27.01.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2024 - İSG/2",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "08.12.2024",
     "islemtarihi": "03.01.2025 10.15",
     "durum": "Görüntüleme Başladı"
+  },
+  {
+    "sinav": "2025 - MSÜ",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "23.02.2025",
+    "islemtarihi": "02.01.2025 14.30-27.01.2025 23.59",
+    "durum": "Devam Ediyor"
   }
 ]
