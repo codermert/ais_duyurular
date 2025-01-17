@@ -14,17 +14,17 @@
     "durum": "Devam Ediyor"
   },
   {
-    "sinav": "2025 - MEB-EKYS",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "02.03.2025",
-    "islemtarihi": "15.01.2025 10.00-21.01.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "e-YDS 2025/2",
     "islemtipi": "Başvuru",
     "sinavtarihi": "01.02.2025",
     "islemtarihi": "14.01.2025 14.00-23.01.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - MEB-EKYS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "02.03.2025",
+    "islemtarihi": "15.01.2025 10.00-21.01.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -33,5 +33,12 @@
     "sinavtarihi": "23.02.2025",
     "islemtarihi": "02.01.2025 14.30-27.01.2025 23.59",
     "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - Kaymakamlık",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "23.02.2025",
+    "islemtarihi": "23.01.2025 10.00-23.01.2025 23.59",
+    "durum": "Başlamadı"
   }
 ]
