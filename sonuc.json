@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2025 - Kaymakamlık",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "23.02.2025",
+    "islemtarihi": "23.01.2025 10.00-23.01.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2025 - YDS/1",
     "islemtipi": "Başvuru",
     "sinavtarihi": "09.03.2025",
@@ -35,10 +42,10 @@
     "durum": "Devam Ediyor"
   },
   {
-    "sinav": "2025 - Kaymakamlık",
+    "sinav": "2025 - MEB-EKYS",
     "islemtipi": "Başvuru",
-    "sinavtarihi": "23.02.2025",
-    "islemtarihi": "23.01.2025 10.00-23.01.2025 23.59",
-    "durum": "Devam Ediyor"
+    "sinavtarihi": "02.03.2025",
+    "islemtarihi": "31.01.2025 10.00-31.01.2025 23.59",
+    "durum": "Başlamadı"
   }
 ]
