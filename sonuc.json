@@ -1,5 +1,19 @@
 [
   {
+    "sinav": "2025 - MSÜ",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "23.02.2025",
+    "islemtarihi": "30.01.2025 10.00-30.01.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024- YDUS 2. Dönem",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "15.12.2024",
+    "islemtarihi": "30.01.2025 10.15",
+    "durum": "Görüntüleme Başladı"
+  },
+  {
     "sinav": "e-YDS 2025/4 (İspanyolca/İtalyanca)",
     "islemtipi": "Başvuru",
     "sinavtarihi": "06.04.2025",
@@ -19,13 +33,6 @@
     "sinavtarihi": "21.12.2024 - 22.12.2024",
     "islemtarihi": "22.01.2025 10.15",
     "durum": "Görüntüleme Başladı"
-  },
-  {
-    "sinav": "2025 - MSÜ",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "23.02.2025",
-    "islemtarihi": "30.01.2025 10.00-30.01.2025 23.59",
-    "durum": "Başlamadı"
   },
   {
     "sinav": "2025 - MEB-EKYS",
