@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2025 - MEB-EKYS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "02.03.2025",
+    "islemtarihi": "31.01.2025 10.00-31.01.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2024- YDUS 2. Dönem",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "15.12.2024",
@@ -28,10 +35,10 @@
     "durum": "Görüntüleme Başladı"
   },
   {
-    "sinav": "2025 - MEB-EKYS",
+    "sinav": "2025 - YDS/1",
     "islemtipi": "Başvuru",
-    "sinavtarihi": "02.03.2025",
-    "islemtarihi": "31.01.2025 10.00-31.01.2025 23.59",
+    "sinavtarihi": "09.03.2025",
+    "islemtarihi": "07.02.2025 10.00-07.02.2025 23.59",
     "durum": "Başlamadı"
   }
 ]
