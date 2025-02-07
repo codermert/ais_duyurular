@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2025 - YKS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "21.06.2025 - 22.06.2025",
+    "islemtarihi": "06.02.2025 14.45-03.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2025-YÖKDİL/1",
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "16.02.2025",
@@ -40,12 +47,5 @@
     "sinavtarihi": "12.04.2025",
     "islemtarihi": "23.01.2025 14.00-03.04.2025 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025 - YDS/1",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "09.03.2025",
-    "islemtarihi": "07.02.2025 10.00-07.02.2025 23.59",
-    "durum": "Başlamadı"
   }
 ]
