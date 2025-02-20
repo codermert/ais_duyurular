@@ -1,19 +1,5 @@
 [
   {
-    "sinav": "2025-TUS 1. Dönem",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "23.03.2025",
-    "islemtarihi": "20.02.2025 10.00-20.02.2025 23.59",
-    "durum": "Bitti"
-  },
-  {
-    "sinav": "2025 - STSTIP 1. Dönem",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "23.03.2025",
-    "islemtarihi": "20.02.2025 10.00-20.02.2025 23.59",
-    "durum": "Bitti"
-  },
-  {
     "sinav": "2025 - DİB-MBSTS",
     "islemtipi": "Başvuru",
     "sinavtarihi": "12.04.2025",
@@ -40,20 +26,6 @@
     "sinavtarihi": "16.02.2025",
     "islemtarihi": "16.02.2025 14.00-26.02.2025 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025 DGUY Ön Başvuru1",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "",
-    "islemtarihi": "14.02.2025 12.00-20.02.2025 23.59",
-    "durum": "Bitti"
-  },
-  {
-    "sinav": "2025 GUY Ön Başvuru",
-    "islemtipi": "Tercih",
-    "sinavtarihi": "-",
-    "islemtarihi": "14.02.2025 12.00-20.02.2025 23.59",
-    "durum": "Bitti"
   },
   {
     "sinav": "2025 - MSÜ",
