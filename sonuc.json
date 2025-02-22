@@ -1,16 +1,16 @@
 [
   {
-    "sinav": "2025 - MEB-EKYS",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "02.03.2025",
-    "islemtarihi": "20.02.2025 14.00-02.03.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2025 - DİB-MBSTS",
     "islemtipi": "Başvuru",
     "sinavtarihi": "12.04.2025",
     "islemtarihi": "20.02.2025 11.30-27.02.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - MEB-EKYS",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "02.03.2025",
+    "islemtarihi": "20.02.2025 14.00-02.03.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
