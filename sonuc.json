@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "sinav": "2025 - MSÜ",
+    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
+    "sinavtarihi": "23.02.2025",
+    "islemtarihi": "23.02.2025 14.00-05.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - Kaymakamlık",
+    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
+    "sinavtarihi": "23.02.2025",
+    "islemtarihi": "23.02.2025 15.45-05.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - DİB-MBSTS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "12.04.2025",
+    "islemtarihi": "20.02.2025 11.30-27.02.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - MEB-EKYS",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "02.03.2025",
+    "islemtarihi": "20.02.2025 14.00-02.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - ALES/1",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "13.04.2025",
+    "islemtarihi": "19.02.2025 10.00-26.02.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025-YÖKDİL/1",
+    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
+    "sinavtarihi": "16.02.2025",
+    "islemtarihi": "16.02.2025 14.00-26.02.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - YKS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "21.06.2025 - 22.06.2025",
+    "islemtarihi": "06.02.2025 14.45-03.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "e-YDS 2025/4 (İspanyolca/İtalyanca)",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "06.04.2025",
+    "islemtarihi": "23.01.2025 14.00-24.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "e-YDS 2025/5 (Farsça/Yunanca/Bulgarca)",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "12.04.2025",
+    "islemtarihi": "23.01.2025 14.00-03.04.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - DİB-MBSTS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "12.04.2025",
+    "islemtarihi": "10.03.2025 10.00-10.03.2025 23.59",
+    "durum": "Başlamadı"
+  }
+]
