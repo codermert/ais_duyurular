@@ -61,5 +61,12 @@
     "sinavtarihi": "13.04.2025",
     "islemtarihi": "07.03.2025 10.00-07.03.2025 23.59",
     "durum": "Başlamadı"
+  },
+  {
+    "sinav": "2025 - DİB-MBSTS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "12.04.2025",
+    "islemtarihi": "10.03.2025 10.00-10.03.2025 23.59",
+    "durum": "Başlamadı"
   }
 ]
