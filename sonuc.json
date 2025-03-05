@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2025 - HMGS/1",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "27.04.2025",
+    "islemtarihi": "05.03.2025 10.30-17.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "e-TEP 2025D/1 (MSB)",
     "islemtipi": "Başvuru",
     "sinavtarihi": "15.03.2025",
@@ -74,6 +81,13 @@
     "islemtipi": "Başvuru",
     "sinavtarihi": "12.04.2025",
     "islemtarihi": "10.03.2025 10.00-10.03.2025 23.59",
+    "durum": "Başlamadı"
+  },
+  {
+    "sinav": "2025 - YKS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "21.06.2025 - 22.06.2025",
+    "islemtarihi": "11.03.2025 10.00-13.03.2025 23.59",
     "durum": "Başlamadı"
   }
 ]
