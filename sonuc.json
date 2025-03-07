@@ -1,16 +1,16 @@
 [
   {
-    "sinav": "2025 GUY Başvuru",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "20.04.2025",
-    "islemtarihi": "06.03.2025 11.00-12.03.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2025 - ALES/1",
     "islemtipi": "Başvuru",
     "sinavtarihi": "13.04.2025",
     "islemtarihi": "07.03.2025 10.00-07.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 GUY Başvuru",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "20.04.2025",
+    "islemtarihi": "06.03.2025 11.00-12.03.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
