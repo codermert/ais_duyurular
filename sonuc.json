@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2025 - YDS/1",
+    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
+    "sinavtarihi": "09.03.2025",
+    "islemtarihi": "09.03.2025 14.35-19.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2025 GUY Başvuru",
     "islemtipi": "Başvuru",
     "sinavtarihi": "20.04.2025",
@@ -28,13 +35,6 @@
     "durum": "Devam Ediyor"
   },
   {
-    "sinav": "e-TEP 2025D/1 (MSB)",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "15.03.2025",
-    "islemtarihi": "03.03.2025 14.00-09.03.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2025 - DUS 1.Dönem",
     "islemtipi": "Başvuru",
     "sinavtarihi": "20.04.2025",
@@ -46,6 +46,13 @@
     "islemtipi": "Başvuru",
     "sinavtarihi": "20.04.2025",
     "islemtarihi": "03.03.2025 15.00-10.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "e-TEP 2025D/1 (MSB)",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "15.03.2025",
+    "islemtarihi": "03.03.2025 14.00-09.03.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
