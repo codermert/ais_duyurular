@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2025 - DİB-MBSTS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "12.04.2025",
+    "islemtarihi": "10.03.2025 10.00-10.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2025 - YDS/1",
     "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
     "sinavtarihi": "09.03.2025",
@@ -67,13 +74,6 @@
     "islemtipi": "Başvuru",
     "sinavtarihi": "12.04.2025",
     "islemtarihi": "23.01.2025 14.00-03.04.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025 - DİB-MBSTS",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "12.04.2025",
-    "islemtarihi": "10.03.2025 10.00-10.03.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
