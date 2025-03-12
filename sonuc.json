@@ -1,16 +1,16 @@
 [
   {
-    "sinav": "2025 - YKS",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "21.06.2025 - 22.06.2025",
-    "islemtarihi": "11.03.2025 10.00-13.03.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "e-TEP 2025D/2",
     "islemtipi": "Başvuru",
     "sinavtarihi": "22.03.2025",
     "islemtarihi": "10.03.2025 15.00-14.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - YKS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "21.06.2025 - 22.06.2025",
+    "islemtarihi": "11.03.2025 10.00-13.03.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -68,5 +68,19 @@
     "sinavtarihi": "12.04.2025",
     "islemtarihi": "23.01.2025 14.00-03.04.2025 23.59",
     "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - DUS 1.Dönem",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "20.04.2025",
+    "islemtarihi": "19.03.2025 10.00-19.03.2025 23.59",
+    "durum": "Başlamadı"
+  },
+  {
+    "sinav": "2025 - STSDIS 1.Dönem",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "20.04.2025",
+    "islemtarihi": "19.03.2025 10.00-19.03.2025 23.59",
+    "durum": "Başlamadı"
   }
 ]
