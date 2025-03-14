@@ -56,6 +56,13 @@
     "durum": "Devam Ediyor"
   },
   {
+    "sinav": "2025 GUY Başvuru",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "20.04.2025",
+    "islemtarihi": "19.03.2025 10.00-19.03.2025 23.59",
+    "durum": "Başlamadı"
+  },
+  {
     "sinav": "2025 - DUS 1.Dönem",
     "islemtipi": "Başvuru",
     "sinavtarihi": "20.04.2025",
@@ -66,6 +73,13 @@
     "sinav": "2025 - STSDIS 1.Dönem",
     "islemtipi": "Başvuru",
     "sinavtarihi": "20.04.2025",
+    "islemtarihi": "19.03.2025 10.00-19.03.2025 23.59",
+    "durum": "Başlamadı"
+  },
+  {
+    "sinav": "2025 DGUY",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "19.04.2025",
     "islemtarihi": "19.03.2025 10.00-19.03.2025 23.59",
     "durum": "Başlamadı"
   }
