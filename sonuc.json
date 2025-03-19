@@ -1,12 +1,5 @@
 [
   {
-    "sinav": "e-YDS 2025/3",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "05.04.2025",
-    "islemtarihi": "18.03.2025 14.00-25.03.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2025 GUY Başvuru",
     "islemtipi": "Başvuru",
     "sinavtarihi": "20.04.2025",
@@ -32,6 +25,20 @@
     "islemtipi": "Başvuru",
     "sinavtarihi": "19.04.2025",
     "islemtarihi": "19.03.2025 10.00-19.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2024 - TUS 2. Dönem Uzmanlık Dalı Değişikliği Tercihi",
+    "islemtipi": "Tercih",
+    "sinavtarihi": "-",
+    "islemtarihi": "19.03.2025 15.30-23.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "e-YDS 2025/3",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "05.04.2025",
+    "islemtarihi": "18.03.2025 14.00-25.03.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
