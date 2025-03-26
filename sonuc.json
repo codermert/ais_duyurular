@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2025 - HMGS/1",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "27.04.2025",
+    "islemtarihi": "26.03.2025 10.00-26.03.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2025-TUS 1. Dönem",
     "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
     "sinavtarihi": "23.03.2025",
@@ -39,13 +46,6 @@
     "islemtipi": "Başvuru",
     "sinavtarihi": "12.04.2025",
     "islemtarihi": "23.01.2025 14.00-03.04.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025 - HMGS/1",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "27.04.2025",
-    "islemtarihi": "26.03.2025 10.00-26.03.2025 23.59",
     "durum": "Devam Ediyor"
   }
 ]
