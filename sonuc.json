@@ -1,16 +1,16 @@
 [
   {
+    "sinav": "2025- YDUS 1. Dönem",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "25.05.2025",
+    "islemtarihi": "09.04.2025 11.30-16.04.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2025 DGUY",
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "19.04.2025",
     "islemtarihi": "09.04.2025 10.30-19.04.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025 - STSÖĞRETMENLİK (YURT DIŞI DİPLOMA DENKLİĞİ İÇİN)",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "10.05.2025",
-    "islemtarihi": "28.03.2025 11.00-10.04.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -25,6 +25,13 @@
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "12.04.2025",
     "islemtarihi": "28.03.2025 14.30-12.04.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - STSÖĞRETMENLİK (YURT DIŞI DİPLOMA DENKLİĞİ İÇİN)",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "10.05.2025",
+    "islemtarihi": "28.03.2025 11.00-10.04.2025 23.59",
     "durum": "Devam Ediyor"
   }
 ]
