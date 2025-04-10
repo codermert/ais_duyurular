@@ -1,12 +1,5 @@
 [
   {
-    "sinav": "2025- YDUS 1. Dönem",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "25.05.2025",
-    "islemtarihi": "09.04.2025 11.30-16.04.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "e-YDS 2025/5 (Farsça/Yunanca/Bulgarca)",
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "12.04.2025",
@@ -32,6 +25,13 @@
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "20.04.2025",
     "islemtarihi": "10.04.2025 11.00-20.04.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025- YDUS 1. Dönem",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "25.05.2025",
+    "islemtarihi": "09.04.2025 11.30-16.04.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
