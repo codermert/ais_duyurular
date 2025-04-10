@@ -7,17 +7,38 @@
     "durum": "Devam Ediyor"
   },
   {
+    "sinav": "e-YDS 2025/5 (Farsça/Yunanca/Bulgarca)",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "12.04.2025",
+    "islemtarihi": "10.04.2025 11.00-12.04.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 GUY Başvuru",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "20.04.2025",
+    "islemtarihi": "10.04.2025 11.00-20.04.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - DUS 1.Dönem",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "20.04.2025",
+    "islemtarihi": "10.04.2025 11.00-20.04.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - STSDIS 1.Dönem",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "20.04.2025",
+    "islemtarihi": "10.04.2025 11.00-20.04.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2025 DGUY",
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "19.04.2025",
     "islemtarihi": "09.04.2025 10.30-19.04.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025 - STSÖĞRETMENLİK (YURT DIŞI DİPLOMA DENKLİĞİ İÇİN)",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "10.05.2025",
-    "islemtarihi": "28.03.2025 11.00-10.04.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -32,6 +53,13 @@
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "12.04.2025",
     "islemtarihi": "28.03.2025 14.30-12.04.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - STSÖĞRETMENLİK (YURT DIŞI DİPLOMA DENKLİĞİ İÇİN)",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "10.05.2025",
+    "islemtarihi": "28.03.2025 11.00-10.04.2025 23.59",
     "durum": "Devam Ediyor"
   }
 ]
