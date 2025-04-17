@@ -1,9 +1,9 @@
 [
   {
-    "sinav": "e-YDS 2025/6",
+    "sinav": "2025 - STSÖĞRETMENLİK (YURT DIŞI DİPLOMA DENKLİĞİ İÇİN)",
     "islemtipi": "Başvuru",
-    "sinavtarihi": "03.05.2025",
-    "islemtarihi": "15.04.2025 14.00-22.04.2025 23.59",
+    "sinavtarihi": "10.05.2025",
+    "islemtarihi": "17.04.2025 10.00-17.04.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -47,12 +47,5 @@
     "sinavtarihi": "19.04.2025",
     "islemtarihi": "09.04.2025 10.30-19.04.2025 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025 - STSÖĞRETMENLİK (YURT DIŞI DİPLOMA DENKLİĞİ İÇİN)",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "10.05.2025",
-    "islemtarihi": "17.04.2025 10.00-17.04.2025 23.59",
-    "durum": "Başlamadı"
   }
 ]
