@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2025- YDUS 1. Dönem",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "25.05.2025",
+    "islemtarihi": "22.04.2025 10.00-22.04.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2025 - DUS 1.Dönem",
     "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
     "sinavtarihi": "20.04.2025",
@@ -46,13 +53,6 @@
     "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
     "sinavtarihi": "12.04.2025",
     "islemtarihi": "12.04.2025 18.25-22.04.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025- YDUS 1. Dönem",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "25.05.2025",
-    "islemtarihi": "22.04.2025 10.00-22.04.2025 23.59",
     "durum": "Devam Ediyor"
   }
 ]
