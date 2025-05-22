@@ -1,12 +1,5 @@
 [
   {
-    "sinav": "2025 - DGS",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "20.07.2025",
-    "islemtarihi": "21.05.2025 11.45-02.06.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2025 - TUS 1. Dönem Tercihi",
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
@@ -25,6 +18,13 @@
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "24.05.2025",
     "islemtarihi": "21.05.2025 14.00-24.05.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - DGS",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "20.07.2025",
+    "islemtarihi": "21.05.2025 11.45-02.06.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
