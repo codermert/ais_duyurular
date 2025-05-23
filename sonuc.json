@@ -1,23 +1,9 @@
 [
   {
-    "sinav": "e-YÖKDİL 2025/2 İngilizce-Sağlık Bilimleri",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "25.05.2025",
-    "islemtarihi": "22.05.2025 16.00-25.05.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2025 - DUS 1.Dönem",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "20.04.2025",
     "islemtarihi": "23.05.2025 15.15",
-    "durum": "Görüntüleme Başladı"
-  },
-  {
-    "sinav": "2025 - HMGS/1",
-    "islemtipi": "Cevap Kağıdı Görüntüleme",
-    "sinavtarihi": "27.04.2025",
-    "islemtarihi": "22.05.2025 15.45",
     "durum": "Görüntüleme Başladı"
   },
   {
@@ -33,6 +19,20 @@
     "sinavtarihi": "-",
     "islemtarihi": "22.05.2025 11.30-25.05.2025 23.59",
     "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "e-YÖKDİL 2025/2 İngilizce-Sağlık Bilimleri",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "25.05.2025",
+    "islemtarihi": "22.05.2025 16.00-25.05.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - HMGS/1",
+    "islemtipi": "Cevap Kağıdı Görüntüleme",
+    "sinavtarihi": "27.04.2025",
+    "islemtarihi": "22.05.2025 15.45",
+    "durum": "Görüntüleme Başladı"
   },
   {
     "sinav": "2025 - DGS",
