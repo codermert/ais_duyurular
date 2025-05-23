@@ -14,13 +14,6 @@
     "durum": "Görüntüleme Başladı"
   },
   {
-    "sinav": "2025 - TUS 1. Dönem Tercihi",
-    "islemtipi": "Tercih",
-    "sinavtarihi": "-",
-    "islemtarihi": "21.05.2025 14.30-27.05.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2024 - YDUS 2.Dönem Uzmanlık Dalı Değişikliği Tercihi",
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
@@ -28,17 +21,24 @@
     "durum": "Devam Ediyor"
   },
   {
-    "sinav": "e-YÖKDİL 2025/1 İngilizce-Sosyal Bilimler",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "24.05.2025",
-    "islemtarihi": "21.05.2025 14.00-24.05.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2025 - DGS",
     "islemtipi": "Başvuru",
     "sinavtarihi": "20.07.2025",
     "islemtarihi": "21.05.2025 11.45-02.06.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - TUS 1. Dönem Tercihi",
+    "islemtipi": "Tercih",
+    "sinavtarihi": "-",
+    "islemtarihi": "21.05.2025 14.30-27.05.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "e-YÖKDİL 2025/1 İngilizce-Sosyal Bilimler",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "24.05.2025",
+    "islemtarihi": "21.05.2025 14.00-24.05.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
