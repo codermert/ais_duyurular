@@ -7,6 +7,13 @@
     "durum": "Devam Ediyor"
   },
   {
+    "sinav": "e-YÖKDİL 2025/2 İngilizce-Sağlık Bilimleri",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "25.05.2025",
+    "islemtarihi": "22.05.2025 16.00-25.05.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2025 - DUS 1.Dönem",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "20.04.2025",
@@ -21,10 +28,10 @@
     "durum": "Görüntüleme Başladı"
   },
   {
-    "sinav": "e-YÖKDİL 2025/2 İngilizce-Sağlık Bilimleri",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "25.05.2025",
-    "islemtarihi": "22.05.2025 16.00-25.05.2025 23.59",
+    "sinav": "2024 - YDUS 2.Dönem Uzmanlık Dalı Değişikliği Tercihi",
+    "islemtipi": "Tercih",
+    "sinavtarihi": "-",
+    "islemtarihi": "22.05.2025 11.30-25.05.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
@@ -33,13 +40,6 @@
     "sinavtarihi": "27.04.2025",
     "islemtarihi": "22.05.2025 15.45",
     "durum": "Görüntüleme Başladı"
-  },
-  {
-    "sinav": "2024 - YDUS 2.Dönem Uzmanlık Dalı Değişikliği Tercihi",
-    "islemtipi": "Tercih",
-    "sinavtarihi": "-",
-    "islemtarihi": "22.05.2025 11.30-25.05.2025 23.59",
-    "durum": "Devam Ediyor"
   },
   {
     "sinav": "2025 - DGS",
