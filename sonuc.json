@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2025 - YDS/İngilizce",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "05.07.2025",
+    "islemtarihi": "30.05.2025 10.00-30.05.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "e-YÖKDİL 2025/3 İngilizce-Fen Bilimleri",
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "31.05.2025",
@@ -40,12 +47,5 @@
     "sinavtarihi": "20.07.2025",
     "islemtarihi": "21.05.2025 11.45-02.06.2025 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025 - YDS/İngilizce",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "05.07.2025",
-    "islemtarihi": "30.05.2025 10.00-30.05.2025 23.59",
-    "durum": "Başlamadı"
   }
 ]
