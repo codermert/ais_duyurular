@@ -5,26 +5,5 @@
     "sinavtarihi": "25.05.2025",
     "islemtarihi": "25.05.2025 13.00-04.06.2025 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025 - DUS 1.Dönem",
-    "islemtipi": "Cevap Kağıdı Görüntüleme",
-    "sinavtarihi": "20.04.2025",
-    "islemtarihi": "23.05.2025 15.15",
-    "durum": "Bitti"
-  },
-  {
-    "sinav": "2025 - STSDIS 1.Dönem",
-    "islemtipi": "Cevap Kağıdı Görüntüleme",
-    "sinavtarihi": "20.04.2025",
-    "islemtarihi": "23.05.2025 15.15",
-    "durum": "Bitti"
-  },
-  {
-    "sinav": "2025 - DGS",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "20.07.2025",
-    "islemtarihi": "21.05.2025 11.45-02.06.2025 23.59",
-    "durum": "Bitti"
   }
 ]
