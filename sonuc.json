@@ -1,5 +1,12 @@
 [
   {
+    "sinav": "2025-YÖKDİL/2",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "27.07.2025",
+    "islemtarihi": "25.06.2025 10.00-25.06.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2025 - DUS 1.Dönem Tercihi",
     "islemtipi": "Tercih",
     "sinavtarihi": "-",
@@ -26,12 +33,5 @@
     "sinavtarihi": "25.05.2025",
     "islemtarihi": "20.06.2025 15.15",
     "durum": "Görüntüleme Başladı"
-  },
-  {
-    "sinav": "2025-YÖKDİL/2",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "27.07.2025",
-    "islemtarihi": "25.06.2025 10.00-25.06.2025 23.59",
-    "durum": "Başlamadı"
   }
 ]
