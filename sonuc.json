@@ -21,17 +21,17 @@
     "durum": "Devam Ediyor"
   },
   {
-    "sinav": "2025 - DUS 1.Dönem Tercihi",
-    "islemtipi": "Tercih",
-    "sinavtarihi": "-",
-    "islemtarihi": "24.06.2025 15.00-30.06.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "2025 - YDS/İngilizce",
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "05.07.2025",
     "islemtarihi": "25.06.2025 11.00-05.07.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025 - DUS 1.Dönem Tercihi",
+    "islemtipi": "Tercih",
+    "sinavtarihi": "-",
+    "islemtarihi": "24.06.2025 15.00-30.06.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
