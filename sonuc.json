@@ -33,19 +33,5 @@
     "sinavtarihi": "05.07.2025",
     "islemtarihi": "25.06.2025 11.00-05.07.2025 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025 - DUS 1.Dönem Tercihi",
-    "islemtipi": "Tercih",
-    "sinavtarihi": "-",
-    "islemtarihi": "24.06.2025 15.00-30.06.2025 23.59",
-    "durum": "Bitti"
-  },
-  {
-    "sinav": "2025- YDUS 1. Dönem",
-    "islemtipi": "Cevap Kağıdı Görüntüleme",
-    "sinavtarihi": "25.05.2025",
-    "islemtarihi": "20.06.2025 15.15",
-    "durum": "Bitti"
   }
 ]
