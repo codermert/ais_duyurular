@@ -1,19 +1,5 @@
 [
   {
-    "sinav": "2025 - TUS 2. Dönem",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "17.08.2025",
-    "islemtarihi": "16.07.2025 10.00-16.07.2025 23.59",
-    "durum": "Bitti"
-  },
-  {
-    "sinav": "2025 - STSTIP 2. Dönem",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "17.08.2025",
-    "islemtarihi": "16.07.2025 10.00-16.07.2025 23.59",
-    "durum": "Bitti"
-  },
-  {
     "sinav": "2025 MEB-AGS",
     "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
     "sinavtarihi": "13.07.2025",
@@ -33,13 +19,6 @@
     "sinavtarihi": "20.07.2025",
     "islemtarihi": "10.07.2025 14.00-20.07.2025 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025 - ALES/2",
-    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
-    "sinavtarihi": "06.07.2025",
-    "islemtarihi": "06.07.2025 13.30-16.07.2025 23.59",
-    "durum": "Bitti"
   },
   {
     "sinav": "2025 - KPSS Lisans",
