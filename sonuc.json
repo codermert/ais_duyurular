@@ -7,17 +7,17 @@
     "durum": "Görüntüleme Başladı"
   },
   {
-    "sinav": "2025-YÖKDİL/2",
-    "islemtipi": "Sınava Giriş Belgesi Dökümü",
-    "sinavtarihi": "27.07.2025",
-    "islemtarihi": "17.07.2025 14.30-27.07.2025 23.59",
-    "durum": "Devam Ediyor"
-  },
-  {
     "sinav": "e-TEP 2025/1",
     "islemtipi": "Sınava Giriş Belgesi Dökümü",
     "sinavtarihi": "19.07.2025",
     "islemtarihi": "17.07.2025 16.15-19.07.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025-YÖKDİL/2",
+    "islemtipi": "Sınava Giriş Belgesi Dökümü",
+    "sinavtarihi": "27.07.2025",
+    "islemtarihi": "17.07.2025 14.30-27.07.2025 23.59",
     "durum": "Devam Ediyor"
   },
   {
