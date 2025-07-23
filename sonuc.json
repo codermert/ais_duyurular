@@ -1,5 +1,19 @@
 [
   {
+    "sinav": "2025 - KPSS Lisans",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "07.09.2025",
+    "islemtarihi": "23.07.2025 10.00-24.07.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
+    "sinav": "2025- KPSS Alan Bilgisi",
+    "islemtipi": "Başvuru",
+    "sinavtarihi": "13.09.2025 - 14.09.2025",
+    "islemtarihi": "23.07.2025 10.00-24.07.2025 23.59",
+    "durum": "Devam Ediyor"
+  },
+  {
     "sinav": "2025 - DGS",
     "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
     "sinavtarihi": "20.07.2025",
@@ -26,19 +40,5 @@
     "sinavtarihi": "13.07.2025",
     "islemtarihi": "13.07.2025 18.20-23.07.2025 23.59",
     "durum": "Devam Ediyor"
-  },
-  {
-    "sinav": "2025 - KPSS Lisans",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "07.09.2025",
-    "islemtarihi": "23.07.2025 10.00-24.07.2025 23.59",
-    "durum": "Başlamadı"
-  },
-  {
-    "sinav": "2025- KPSS Alan Bilgisi",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "13.09.2025 - 14.09.2025",
-    "islemtarihi": "23.07.2025 10.00-24.07.2025 23.59",
-    "durum": "Başlamadı"
   }
 ]
