@@ -1,12 +1,5 @@
 [
   {
-    "sinav": "2025 YKS ÖZYES (SPOR BİLİMLERİ)",
-    "islemtipi": "Başvuru",
-    "sinavtarihi": "",
-    "islemtarihi": "30.07.2025 10.00-30.07.2025 23.59",
-    "durum": "Bitti"
-  },
-  {
     "sinav": "2025 - YDS/İngilizce",
     "islemtipi": "Cevap Kağıdı Görüntüleme",
     "sinavtarihi": "05.07.2025",
@@ -26,12 +19,5 @@
     "sinavtarihi": "06.07.2025",
     "islemtarihi": "25.07.2025 10.15",
     "durum": "Görüntüleme Başladı"
-  },
-  {
-    "sinav": "2025 - DGS",
-    "islemtipi": "Temel Soru Kitapçığı Görüntüleme",
-    "sinavtarihi": "20.07.2025",
-    "islemtarihi": "20.07.2025 13.20-30.07.2025 23.59",
-    "durum": "Bitti"
   }
 ]
